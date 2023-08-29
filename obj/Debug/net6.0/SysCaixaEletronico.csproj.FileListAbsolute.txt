@@ -1,0 +1,15 @@
+/home/gabrielrichard/atividades/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico
+/home/gabrielrichard/atividades/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.deps.json
+/home/gabrielrichard/atividades/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.runtimeconfig.json
+/home/gabrielrichard/atividades/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.dll
+/home/gabrielrichard/atividades/SysCaixaEletronico/bin/Debug/net6.0/ref/SysCaixaEletronico.dll
+/home/gabrielrichard/atividades/SysCaixaEletronico/bin/Debug/net6.0/SysCaixaEletronico.pdb
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.csproj.AssemblyReference.cache
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.AssemblyInfoInputs.cache
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.AssemblyInfo.cs
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.csproj.CoreCompileInputs.cache
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.dll
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/ref/SysCaixaEletronico.dll
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.pdb
+/home/gabrielrichard/atividades/SysCaixaEletronico/obj/Debug/net6.0/SysCaixaEletronico.genruntimeconfig.cache
